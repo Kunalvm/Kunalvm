@@ -17,12 +17,12 @@
 
 - 📫 How to reach me **Kunalvm04@gmail.com**
 
-- ⚡ Others **Hardcore Gamer😈🤖..**
+- ⚡ Others skills **I'm a Hardcore Gamer😈🤖..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kunalmore571111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kunalmore571111" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kunal-more-9a163616b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kunal-more-9a163616b/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kunal-more-9a163616b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunal-more-9a163616b/" height="30" width="40" /></a>
 <a href="https://kaggle.com/kunalvm04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kunalvm04" height="30" width="40" /></a>
 </p>
 
